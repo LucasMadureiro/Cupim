@@ -14,3 +14,5 @@
     <td><img src="https://github.com/LucasMadureiro/Cupim/blob/main/Flip-Flop3/3D/3D_8.jpg" width="200"><br>3D Modelo 8</td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/LucasMadureiro/Cupim/main/Flip-Flop3/cupim.svg" width="300">
