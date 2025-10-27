@@ -3,6 +3,7 @@
 <!-- Imagem principal SVG -->
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/LucasMadureiro/Cupim/main/Flip-Flop3/cupim.svg" width="300">
+  <img src="https://raw.githubusercontent.com/LucasMadureiro/Cupim/refs/heads/main/Flip-Flop3/CupimTopo.svg" width="300">
 </div>
 
 <!-- Grid de imagens JPG -->
